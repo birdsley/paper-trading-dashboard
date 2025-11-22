@@ -1,0 +1,118 @@
+{
+  "start_date": "2025-11-21",
+  "initial_capital": 1000,
+  "current_cash": 1558.0,
+  "positions": [
+    {
+      "id": "trade_0",
+      "entry_date": "2025-11-21",
+      "ticker": "VTI",
+      "action": "SELL",
+      "strike": 340.0,
+      "expiration": "2025-12-19",
+      "contracts": 1,
+      "entry_price": 0.8,
+      "premium_collected": 80.0,
+      "premium_paid": 0,
+      "entry_stock_price": 323.79998779296875,
+      "entry_iv": 0.20581848876953124,
+      "status": "OPEN",
+      "days_held": 1,
+      "current_pnl": 0
+    },
+    {
+      "id": "trade_1",
+      "entry_date": "2025-11-21",
+      "ticker": "QQQ",
+      "action": "SELL",
+      "strike": 620.0,
+      "expiration": "2025-12-19",
+      "contracts": 1,
+      "entry_price": 4.78,
+      "premium_collected": 478.0,
+      "premium_paid": 0,
+      "entry_stock_price": 590.0700073242188,
+      "entry_iv": 0.2269059243774414,
+      "status": "OPEN",
+      "days_held": 1,
+      "current_pnl": 0
+    }
+  ],
+  "closed_trades": [],
+  "daily_snapshots": [
+    {
+      "date": "2025-11-21",
+      "portfolio_value": 1000,
+      "cash": 1000,
+      "positions_value": 0,
+      "spy_benchmark": 250,
+      "voo_benchmark": 250,
+      "vti_benchmark": 250,
+      "qqq_benchmark": 250
+    },
+    {
+      "date": "2025-11-21",
+      "portfolio_value": 849.56,
+      "cash": 1558.0,
+      "positions_value": -708.44,
+      "spy_benchmark": 250.0,
+      "voo_benchmark": 250.0,
+      "vti_benchmark": 250.0,
+      "qqq_benchmark": 250.0
+    },
+    {
+      "date": "2025-11-22",
+      "portfolio_value": 882.77,
+      "cash": 1558.0,
+      "positions_value": -675.23,
+      "spy_benchmark": 250.0,
+      "voo_benchmark": 250.0,
+      "vti_benchmark": 250.0,
+      "qqq_benchmark": 250.0
+    },
+    {
+      "date": "2025-11-22",
+      "portfolio_value": 882.77,
+      "cash": 1558.0,
+      "positions_value": -675.23,
+      "spy_benchmark": 250.0,
+      "voo_benchmark": 250.0,
+      "vti_benchmark": 250.0,
+      "qqq_benchmark": 250.0
+    },
+    {
+      "date": "2025-11-22",
+      "portfolio_value": 882.77,
+      "cash": 1558.0,
+      "positions_value": -675.23,
+      "spy_benchmark": 250.0,
+      "voo_benchmark": 250.0,
+      "vti_benchmark": 250.0,
+      "qqq_benchmark": 250.0
+    },
+    {
+      "date": "2025-11-22",
+      "portfolio_value": 882.77,
+      "cash": 1558.0,
+      "positions_value": -675.23,
+      "spy_benchmark": 250.0,
+      "voo_benchmark": 250.0,
+      "vti_benchmark": 250.0,
+      "qqq_benchmark": 250.0
+    }
+  ],
+  "benchmark_shares": {
+    "SPY": 0.3793453847114178,
+    "VOO": 0.41258891789792795,
+    "VTI": 0.7720815609166886,
+    "QQQ": 0.42367854135422184
+  },
+  "performance_stats": {
+    "total_trades": 0,
+    "winning_trades": 0,
+    "losing_trades": 0,
+    "total_pnl": 0,
+    "largest_win": 0,
+    "largest_loss": 0
+  }
+}

@@ -1,0 +1,5 @@
+email_config.json
+email_recipients.txt
+cron.log
+*.ipynb
+.DS_Store
